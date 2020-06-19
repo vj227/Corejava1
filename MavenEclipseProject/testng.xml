@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<parameter name="url" value="https://www.javatpoint.com/"></parameter>
+<parameter name="search" value="javascript"></parameter>
+  <test  name="Test">
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
